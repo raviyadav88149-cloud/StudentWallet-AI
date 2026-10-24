@@ -75,4 +75,4 @@ StudentWallet AI is a prototype intended to make budgeting easier for students. 
 
 ## 👨‍💻 Hackathon
 
-Built for Fetch-A-Thon 3.0 — ASI:One Agent Challenge.
+Built for Fetch-A-Thon 3.0 — ASI:One Agent Challenge
